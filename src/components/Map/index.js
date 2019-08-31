@@ -20,7 +20,7 @@ import { getPixelSize } from '../../utils';
 import markerImage from '../../assets/marker.png';
 import backImage from '../../assets/back.png';
 
-GeoCoder.init('AIzaSyA4ELsCxGkD28UK9EJiYJGpO85IBmrHQEE');
+GeoCoder.init('xxx');
 
 export default class Map extends Component {
   state = {
